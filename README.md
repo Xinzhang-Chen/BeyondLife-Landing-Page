@@ -4,8 +4,6 @@
 
 Welcome to the official landing page of **BeyondLife** — a research prototype developed to explore secure and flexible methods for managing digital data after death. BeyondLife is developed by researchers at the School of Computer Science and Engineering, UNSW Sydney.
 
-Whether you're a developer, researcher, or just curious about how PD-CP-ABE powers secure afterlife data management — we’ve got everything linked here for you.
-
 ---
 
 ## 📌 Key Resources
