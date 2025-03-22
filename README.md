@@ -1,6 +1,10 @@
-# BeyondLife Landing Page
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/567cd92d-6766-4684-b639-4e460498a268" alt="UNSWLogo" width="120" style="margin: 0 20px;" />
+  <img src="https://github.com/user-attachments/assets/eb753feb-f2b0-4464-9b72-24f24f4e8537" alt="unsw_computer_science_and_engineering_logo" width="120" style="margin: 0 20px;" />
+</p>
 
-<img src="https://github.com/user-attachments/assets/0519a089-88c9-4f37-8f6c-9816ac83ccee" alt="BeyondLifeLogo" width="200"/>
+# BeyondLife Landing Page
+<img src="https://github.com/user-attachments/assets/0519a089-88c9-4f37-8f6c-9816ac83ccee" alt="BeyondLife Logo" width="160" style="margin: 0 20px;" />
 
 
 Welcome to the official landing page of **BeyondLife** — a research prototype developed to explore secure and flexible methods for managing digital data after death.
@@ -51,5 +55,14 @@ If you’re reading this, we appreciate your interest! 🎓 Feel free to explore
 
 ---
 
-📬 Questions or feedback?  
+## 💬 Questions or feedback?  
 Get in touch via GitHub Issues on any of the repositories above — we're always happy to discuss or collaborate!
+
+---
+
+## 📬 Contact
+
+For questions, feedback, or collaboration inquiries, feel free to reach out:
+
+- Xinzhang Chen - xinzhang.chen@unsw.edu.au
+- Arash Shaghaghi - a.shaghaghi@unsw.edu.au
