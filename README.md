@@ -6,7 +6,7 @@ Welcome to the official landing page of **BeyondLife** — a research prototype 
 
 ---
 
-## 📌 Key Resources
+## Key Resources
 
 ### 🔐 PD-CP-ABE Implementation
 
@@ -24,7 +24,7 @@ Welcome to the official landing page of **BeyondLife** — a research prototype 
 
 ---
 
-## 🧩 BeyondLife System
+## BeyondLife System
 
 ### 🌐 Full Stack Source Code
 
@@ -38,30 +38,45 @@ Welcome to the official landing page of **BeyondLife** — a research prototype 
   Step-by-step instructions to run BeyondLife locally, set up the environment, install dependencies, and explore all core features.  
   📂 [Demo Repository](https://github.com/LimeFavoredOrange/BeyondLife_Demo)
 
+## 🍎 iOS TestFlight Beta
+<img src="https://github.com/user-attachments/assets/c2dccd00-bc24-420e-b1d4-5cf714a7f571" alt="testflight-logo" width="200"/>
+
+
+- You can also try BeyondLife on iOS through TestFlight:  
+  📱 [Join TestFlight Beta](https://testflight.apple.com/join/Sm1gFy5f)
+
+
 ---
 
 ## 💡 About the Project
 
 This system forms part of an academic study focused on applying fine-grained cryptographic access control to posthumous data scenarios. The current design highlights considerations such as user privacy, portability, and controlled data delegation.
 
-If you’re reading this, we appreciate your interest! 🎓 Feel free to explore, clone, or contribute.
+If you’re reading this, we appreciate your interest! 🎓 
+
+Feel free to explore, clone, or contribute.
 
 ---
 
 ## 💬 Questions or feedback?  
-Get in touch via GitHub Issues on any of the repositories above — we're always happy to discuss or collaborate!
 
----
+Get in touch via GitHub Issues — or reach out to us directly:
 
-## 📬 Contact
+- **Xinzhang Chen**  
+  📧 xinzhang.chen@unsw.edu.au  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/xinzhang-chen/) |
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="16"/> [GitHub](https://github.com/Xinzhang-Chen)
 
-For questions, feedback, or collaboration inquiries, feel free to reach out:
+- **Arash Shaghaghi**  
+  📧 a.shaghaghi@unsw.edu.au  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/arashsg/) |
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="16"/> [GitHub](https://github.com/arashsha)
 
-- Xinzhang Chen - xinzhang.chen@unsw.edu.au
-- Arash Shaghaghi - a.shaghaghi@unsw.edu.au
 
-Made with Love at UNSW Sydney.
+
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/567cd92d-6766-4684-b639-4e460498a268" alt="UNSWLogo" width="120" style="margin: 0 20px;" />
-  <img src="https://github.com/user-attachments/assets/eb753feb-f2b0-4464-9b72-24f24f4e8537" alt="unsw_computer_science_and_engineering_logo" width="120" style="margin: 0 20px;" />
+  <img src="https://github.com/user-attachments/assets/567cd92d-6766-4684-b639-4e460498a268" alt="UNSW Logo" width="120" style="margin: 0 20px;" />
+  <img src="https://github.com/user-attachments/assets/eb753feb-f2b0-4464-9b72-24f24f4e8537" alt="UNSW CSE Logo" width="120" style="margin: 0 20px;" />
 </p>
+
+Made with ❤️ at UNSW Sydney.
